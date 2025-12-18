@@ -26,3 +26,9 @@
 1. Первый пункт
 2. Второй пункт
 3. Третий пункт
+
+## Ссылки
+(https://cybershoke.net/ru/cs2/servers/bhop)
+
+## Изображение
+(https://thecode.media/memy-pro-programmistov/)
