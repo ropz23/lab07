@@ -31,4 +31,4 @@
 (https://cybershoke.net/ru/cs2/servers/bhop)
 
 ## Изображение
-(https://thecode.media/memy-pro-programmistov/)
+(https://www.meme-arsenal.com/memes/3fb01ca17d08173f2081925bc9b21f0c.jpg)
